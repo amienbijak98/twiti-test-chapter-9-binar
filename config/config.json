@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "amienbijak",
+    "password": "metanaCH4",
+    "database": "exam_chap_9_development",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "exam_chap_9_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "exam_chap_9_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
