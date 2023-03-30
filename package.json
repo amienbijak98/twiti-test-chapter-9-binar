@@ -1,0 +1,11 @@
+{
+  "name": "twiti-test-chapter-9-binar",
+  "version": "1.0.0",
+  "description": "chapter 9 exam binar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bijak Amien M",
+  "license": "ISC"
+}
